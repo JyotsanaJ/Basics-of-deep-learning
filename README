@@ -1,0 +1,24 @@
+Hi, 
+If you are looking for repository to start basic coding for Deep Learning this repo could be helpful.
+
+1. customer_churn.ipynb : Training a basic CNN model using tensorflow to predict customer churn
+
+2. finetune_gpt2_using_pytorch.ipynb : Finetuning a gpt2 model using pytorch to translate english to french
+
+3. finetune_t5_using_pytorch.ipynb : Finetuning a gpt2 model using pytorch to generate text summary
+
+4. image-pixel.ipynb : Basic libraries and usage to read image as input
+
+5. mnist_classification.ipynb : Training a basic CNN model using tensorflow to predict digits in mnist
+
+6. multilayer_perceptron.ipynb : Having fun with multilayer perceptron MLP
+
+7. perceptron.ipynb : understand the basic working on a perceptron
+
+8. pytorch_finetune_CNN.ipynb : Finetuning a CNN model using pytorch
+
+9. rnn.ipynb : Basics of RNN and LSTM 
+
+10. Transformers_.ipynb : Understanding of Transformers
+
+11. vgg_tensor.ipynb : Architecture of a VGG model using tensorflow
