@@ -46,21 +46,26 @@ This repository provides Jupyter notebooks aimed at deepening your understanding
 
 Install the required dependencies using pip:
 
-bash
-`pip install jupyter torch torchvision tensorflow transformers`
+
+```
+pip install jupyter torch torchvision tensorflow transformers
+```
 
 Usage
 -----
 
 1.  Clone the repository:
 
-bash
-`git clone https://github.com/your-username/Deep-Dive-into-Deep-Learning.git cd Deep-Dive-into-Deep-Learning`
+```
+https://github.com/JyotsanaJ/Basics-of-deep-learning.git
+cd Basics-of-deep-learning
+```
 
 2.  Launch Jupyter Notebook server:
 
-bash
-`jupyter notebook`
+```
+jupyter notebook
+```
 
 3. Open the desired notebook :
 
